@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "clientes": [
+    {
+      "nombre": "Karen pela",
+      "empresa": "Codigo Con Juan pela",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "pela",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "rigo",
+      "empresa": "fol",
+      "email": "rfunes@gmail.com",
+      "telefono": "23234545",
+      "notas": "test",
+      "id": 6
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "assasa",
+      "id": 7
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "comer",
+      "id": 8
+    },
+    {
+      "nombre": "Juan burgos",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "comer",
+      "id": 9
+    },
+    {
+      "nombre": "Juan acta",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "aaaaa",
+      "id": 10
+    },
+    {
+      "nombre": "Karen a",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "aaa",
+      "id": 11
+    },
+    {
+      "nombre": "Karen bb",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "bbb",
+      "id": 12
+    },
+    {
+      "nombre": "Juan rerre",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "assasasa",
+      "id": 13
+    },
+    {
+      "nombre": "Juan ccc",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "cccccc",
+      "id": 14
+    }
+  ]
+}
